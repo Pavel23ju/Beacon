@@ -1,0 +1,17 @@
+# Go
+/bin/
+*.exe
+*.test
+*.out
+vendor/
+
+# Node
+node_modules/
+dist/
+
+# Data / local
+*.db
+*.sqlite
+.env
+.DS_Store
+data/osm/
